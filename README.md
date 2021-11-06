@@ -4,7 +4,7 @@ This is my first "Responsiveness for the Web" challenge proposed by [devchalleng
 
 Purpose: Make a 404 page not found.
 
-Languages Used: HTML and CSS.
+Technologies Used: HTML and CSS.
 
 [See the result here](https://thascript.github.io/Desafio01/)
 
